@@ -2,7 +2,7 @@
 #  
 
 def times_3(number):
-    product = number * 3
+    product = int(number) * 3
     return product
 
 
